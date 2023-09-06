@@ -2,8 +2,8 @@ from django.shortcuts import render
 
 def show_main(request):
     context = {
-        'name': 'Jason Kent Winata',
+        'name': 'Jason',
         'class': 'PBP F'
     }
 
-    return render(request, "test.html", context)
+    return render(request, "main.html", context)
