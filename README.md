@@ -1,2 +1,4 @@
-# shopping-list
-Tutorial PBP 2023/2024
+# Jason Shopping-List
+#### Nama: Jason Kent Winata
+#### NPM: 2206081313
+#### Link: http://jason-kent-tutorial.pbp.cs.ui.ac.id/ <br>
